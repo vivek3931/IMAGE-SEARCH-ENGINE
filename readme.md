@@ -11,7 +11,7 @@ An **Image Search Engine** project built using HTML, CSS, and JavaScript. This a
 
 ## Demo
 
-![Demo](demo-screenshot.png) <!-- Add a screenshot of your project here -->
+![Demo](./img/image-search-img.png) <!-- Add a screenshot of your project here -->
 
 ## Technologies Used
 
@@ -41,7 +41,6 @@ image-search-engine/
 
 ## Customization
 
-- Replace the `API_KEY` with your key from the image search API.
 - Modify `style.css` to personalize the design.
 
 ## Future Improvements
