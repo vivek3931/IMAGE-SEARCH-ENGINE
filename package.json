@@ -1,0 +1,26 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "An **Image Search Engine** project built using HTML, CSS, and JavaScript. This application allows users to search for images by entering a keyword, fetching results from an image API, and displaying them in a visually appealing grid layout.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek3931/IMAGE-SEARCH-ENGINE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/vivek3931/IMAGE-SEARCH-ENGINE/issues"
+  },
+  "homepage": "https://github.com/vivek3931/IMAGE-SEARCH-ENGINE#readme",
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}

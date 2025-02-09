@@ -11,7 +11,7 @@ An **Image Search Engine** project built using HTML, CSS, and JavaScript. This a
 
 ## Demo
 
-![Demo](./img/image-search-img.png) <!-- Add a screenshot of your project here -->
+![Demo](./img/image-search-img.png)
 
 ## Technologies Used
 
