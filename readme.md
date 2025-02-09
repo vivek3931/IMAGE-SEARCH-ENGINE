@@ -9,9 +9,19 @@ An **Image Search Engine** project built using HTML, CSS, and JavaScript. This a
 - Displays results dynamically with JavaScript.
 - Includes error handling for empty search queries or API issues.
 
-## Demo
+## 📸 Preview
 
-![Demo](./img/image-search-img.png)
+![Project Preview](./img/image-search-img.png)
+
+
+## 🚀 Live Demo
+
+🔗 [Check it out here](https://engine-for-imagesearch.netlify.app/)
+
+## 📬 Contact
+
+📧 Email: viveks3931@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vivek3931/) | [GitHub](https://github.com/vivek3931) 
 
 ## Technologies Used
 
